@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How can you run the program
 
-In the project directory, you can run:
+### `Open the file in Vs code`
 
 ### `npm start`
 
