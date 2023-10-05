@@ -1,0 +1,81 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.container {
+    text-align: center;
+    /* Center horizontally */
+}
+
+.btn {
+    
+    margin: 10px;
+    position: relative;
+    padding: 10px;
+    top: 70px;
+}
+.viwebtn{
+    position: relative; /* or absolute, depending on your layout */
+    top: -70px; 
+    margin-left: 1350px;
+    position: relative;
+    padding: 10px;
+    top: -20px;
+}
+.card{
+    margin-top: 0px;
+    padding:  10px;
+    max-height: 510px
+}
+.bed{
+    margin:20px;
+    position: relative;
+    padding: 5px;
+    top: -150px;
+   
+}
+.room{
+    margin:20px;
+    position: relative;
+    padding: 5px;
+    top: -150px;
+} 
+    
+.price{
+    
+    position: relative;
+    top: -50px;
+    font-weight: bold;
+    left: -380px;
+    }
+   .heart{
+    font-size: 24px;
+    position: relative;
+    top: -470px;
+    left: -75px;
+   
+   } 
+   .btnrent{
+    
+    position: relative;
+  top: -410px;
+  
+   }
+   
+   .squrefit{
+    margin:20px;
+    position: relative;
+    padding: 5px;
+    top: -150px;
+
+   }
+   .bath{
+    margin:20px;
+    position: relative;
+    padding: 5px;
+    top: -150px;
+   }
+   .btnread{
+    position: relative;
+    padding: 5px;
+    left: 220px;
+    bottom: 65px;
+   }
